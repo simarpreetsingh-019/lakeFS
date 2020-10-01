@@ -37,8 +37,6 @@ We are deeply committed to our community of engineers who use and contribute to 
 
 ***What will be included in the commercial layer?***
 
-Well, it will take a while to figure out, and currently everything we do is open source, but in the future, we will provide a commercial offering according to users’ feedback.
+Well, it will take a while to figure out, and currently everything we do is open source, but in the future, we will provide a commercial offering according to user's feedback.
 For example, SLA based support was already requested by some of our design partners. Apparently some organizations feel comfortable being early adopters of technology if they have the guarantee that when an issue arises someone is committed contractually to resolve it within a given SLA. If this is your preference, we are here for you.
 In addition, in the future, we may provide usability features over the core capabilities, enterprise features revolving around user management and security, and a SaaS offering.  
-
-
